@@ -1,5 +1,5 @@
 # 💫 About Me:
-Laravel<br>React<br>Python<br>C++<br>JavaScript
+I am open to learn any stack. <br> Expeience in fullstack development. Work with any framework. <br> Liberian by nationality and willing to take any tech adventure.
 
 
 # 💻 Tech Stack:
