@@ -19,3 +19,7 @@ I am open to learn any stack. <br> Expeience in fullstack development. Work with
 [![](https://visitcount.itsvg.in/api?id=aloboxy&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aloboxy&label=Profile%20Views&pretty=true" />
+</a>
